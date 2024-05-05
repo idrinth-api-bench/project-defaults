@@ -101,7 +101,6 @@ sexualised
 src
 subprojects
 tracking.bjoern-buettner.me
-ui
 UI
 webmaster@idrinth-api-ben.ch
 winston
